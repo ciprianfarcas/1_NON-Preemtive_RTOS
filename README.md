@@ -17,4 +17,3 @@ Task4: Is setting the duty cicle for an led reading a value on serial interface 
 Task5:  Read the switch button status: if button pressed LED 13 from Arduino board is blinking   
 
 Task6: Count how many times a task was executed 
-*/
