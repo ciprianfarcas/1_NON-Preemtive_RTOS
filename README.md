@@ -4,8 +4,7 @@
         5- LED_2
         3- LED_1
         13- LED_13(on Arduino board)
-Program wich use a scheduler function to implemet a  preemtive  Real time sistem preemtive, it have 6 tasks
-Program care foloseste un scheduler pentru a executa 6 taskuri:
+Program wich use a scheduler function to implemet a   non- preemtive  Real time sistem, it have 6 tasks
 
 Task_1:  read teh potentiometer value and displait on sErial Monitor   
 
